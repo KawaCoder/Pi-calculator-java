@@ -9,7 +9,7 @@ It uses this propriety of pi: π = (4/1) - (4/3) + (4/5) - (4/7) + (4/9) - (4/11
 <br/>[Click here for more about the Gregory-Leibniz series method (wikipedia)](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80)
 
 ### The Nilakantha series
-This method is doing this infinite sequence: π = 3 + (4/2*3*4) - (4/4*5*6) + (4/6*7*8) ... 
+This method is doing this infinite sequence: π = 3 + (4/2x3x4) - (4/4x5x6) + (4/6x7x8) ... 
 [Click here for more about the Nilakantha series](https://www.researchgate.net/publication/283579663_Nilakantha's_accelerated_series_for_pi)
 
 ### The Gauss algorythm

@@ -118,6 +118,7 @@ public class Main {
 
     public static void main(String args[]){
         while(true) {
+            pi = 0;
             Scanner sc = new Scanner(System.in);
             System.out.println("Calcul method:\n[1]-Gregory-Leibniz series\n[2]-Nilakantha series\n[3]-Gauss algorithm");
             int reponse = sc.nextInt();

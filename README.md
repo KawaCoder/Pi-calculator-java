@@ -10,11 +10,11 @@ It uses this propriety of pi: π = (4/1) - (4/3) + (4/5) - (4/7) + (4/9) - (4/11
 
 ### The Nilakantha series
 This method is doing this infinite sequence: π = 3 + (4/2x3x4) - (4/4x5x6) + (4/6x7x8) ... 
-[Click here for more about the Nilakantha series](https://www.researchgate.net/publication/283579663_Nilakantha's_accelerated_series_for_pi)
+<br/>[Click here for more about the Nilakantha series](https://www.researchgate.net/publication/283579663_Nilakantha's_accelerated_series_for_pi)
 
 ### The Gauss algorythm
 This algorythm, originally written in c, computes an aproximation of pi very quickly! So, i adapted it in java.
-[Click here for more details about the Gauss algorythm](https://cage.ugent.be/~hvernaev/Gauss-L.html)
+<br/>[Click here for more details about the Gauss algorythm](https://cage.ugent.be/~hvernaev/Gauss-L.html)
 
 #### Disclaimer
 Don't use this program to get the pi value! it will not gives you aproximations of pi! Of course, these methods can calculate a huge number of decimals, but 

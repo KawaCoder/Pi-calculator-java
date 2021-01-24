@@ -17,7 +17,7 @@ This algorythm, originally written in c, computes an aproximation of pi very qui
 <br/>[Click here for more details about the Gauss algorythm](https://cage.ugent.be/~hvernaev/Gauss-L.html)
 
 #### Disclaimer
-Don't use this program to get the pi value! it will not gives you aproximations of pi! Of course, these methods can calculate a huge number of decimals, but 
+Don't use this program to get the pi value! it will only gives you aproximations of pi! Of course, these methods can calculate a huge number of decimals, but 
 i adapted it to be simply and fast. This little program is written to show the differences about the differents methods, like the precision and speed.
 If you want, you can use it for your studies, at your own risk ;)
 

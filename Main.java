@@ -1,7 +1,11 @@
 import java.util.Scanner;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.concurrent.atomic.AtomicLong;
+
+//DON'T DELETE THESE FEW LINES!!
+//code from github, https://github.com/DR34M-M4K3R/Pi-calculator-java
+// DR34M-M4K3R#7751 on discord.
+//have fun ;)
 
 public class Main {
 
